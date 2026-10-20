@@ -16,3 +16,14 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+## Password Reset Troubleshooting
+
+If a password reset fails:
+
+1. Confirm that you entered the correct username.
+2. Check whether your account is locked.
+3. Follow the organization's approved password recovery process.
+4. Contact the Help Desk if the reset still fails.
+
+Never share your password with another person or include it in a support ticket.
