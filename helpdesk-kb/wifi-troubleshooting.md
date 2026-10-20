@@ -25,3 +25,17 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wireless Connections
+
+If your wireless connection is unusually slow, try the following steps:
+
+1. Move closer to the wireless access point.
+2. Disconnect devices that are no longer being used.
+3. Restart your computer's Wi-Fi connection.
+4. Disconnect from the network and reconnect.
+5. Restart the router if you have permission to do so.
+6. Run a speed test and compare the results with your normal connection speed.
+
+If the connection remains slow, record the affected device, location, time,
+and any error messages before contacting the Help Desk.
